@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Trần Minh Tuấn Kiệt
 
-![Portfolio Status](https://img.shields.io/badge/Portfolio-Active-green)
-![Location](https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-blue)
-![Email](https://img.shields.io/badge/Email-kiettran.work23%40gmail.com-red)
-![GitHub Profile](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)
+[![Portfolio Status](https://img.shields.io/badge/Portfolio-Active-green)](https://tuankiettm.github.io/portfolio/)
+[![Location](https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-blue)](https://www.google.com/maps/place/Hanoi,+Vietnam)
+[![Email](https://img.shields.io/badge/Email-kiettran.work23%40gmail.com-red)](mailto:kiettran.work23@gmail.com)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/TuanKietTM)
 
 ## About Me
 
